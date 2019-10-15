@@ -1,0 +1,20 @@
+
+ 
+PROGRESSO MENSAL (%):
+ 
+USUARIO: JOAO 
+Altura: -2.29 
+Peso: -8.45 
+Biceps_direito: 6.19 
+Biceps_esquerdo: 6.19 
+Coxa_direita: 19.40 
+Coxa_esquerda: -40.30 
+Antibraco_direito: 135.29 
+Antibraco_esquerdo: 17.65 
+Panturrilha_direita: 87.50 
+Panturrilha_esquerda: -10.45 
+Abdomen: -30.23 
+Cintura: 60.00 
+Quadril: 100.00 
+Torax: -4.26 
+Ombro: 6.80 
